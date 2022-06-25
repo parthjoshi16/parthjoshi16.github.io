@@ -191,7 +191,7 @@ figure {
   float: left;
   width: 300px;
   position: fixed;
-  overflow-y: scroll;
+/*   overflow-y: scroll; */
   z-index: 1001;
   background: #ffffff;
   -webkit-transition: 0.5s;
